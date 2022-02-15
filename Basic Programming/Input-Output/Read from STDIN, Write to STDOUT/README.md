@@ -3,11 +3,10 @@
 [**Submission**](https://assessment.hackerearth.com/challenges/test/question-for-new-practice-section/algorithm/io-exercise/submission/56551824/) | [**Discussion**](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/io-exercise/discussion/swift-solution-for-r-7de2faf8/)
 
 ### Solution:
+
 ```swift
-let N = readLine()
-let S = readLine()
-if let n = N, let k = Int(n), k >= 0 && k <= 10 { print(k * 2) }
-if let s = S, (1...15).contains(s.count) { print(s) }
+if let N = Int(readLine(strippingNewline: true)!), Set(0...10).contains(N) { print(N * 2) }
+if let S = readLine(strippingNewline: true), Set(1...15).contains(S.count) { print(S) }
 ```
 
 ### Description:

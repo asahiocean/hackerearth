@@ -4,6 +4,12 @@
 <a href="https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/make-all-equal-90a21ab2/"><b>Problem</b></a> • <a href="https://www.hackerearth.com/submission/69056224/"><b>Submission</b></a>  • <a href="https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/make-all-equal-90a21ab2/discussion/solution-accepted-sw-9d5c9a4b"><b>Discuss</b></a>
 </p>
 
+<b>Solved:</b> February 15, 2022, 19:19:35 UTC
+
+<b>Result:</b> Solution Accepted<br>
+<b>Time (Sec):</b> 0.22711<br>
+<b>Memory (kb):</b> 1360</b>
+
 <details>
 <summary>
     <img src="https://git.io/JDE5D" height="24" align="left" alt="swift">

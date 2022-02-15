@@ -1,4 +1,6 @@
-# [Read from STDIN, Write to STDOUT](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/io-exercise/)
+<h1>Read from STDIN, Write to STDOUT</h1>
+
+[**Problem**](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/io-exercise/)
 
 [**Submission**](https://assessment.hackerearth.com/challenges/test/question-for-new-practice-section/algorithm/io-exercise/submission/56551824/) | [**Discussion**](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/io-exercise/discussion/swift-solution-for-r-7de2faf8/)
 

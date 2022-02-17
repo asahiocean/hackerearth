@@ -4,14 +4,30 @@
 <a href="https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/io-exercise/"><b>Problem</b></a> • <a href="https://www.hackerearth.com/submission/69054645/"><b>Submission</b></a>  • <a href="https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/io-exercise/discussion/swift-solution-for-r-7de2faf8/"><b>Discuss</b></a>
 </p>
 
-<h3>Solution</h3>
+<hr>
+
+<details>
+<summary>
+    <img src="https://git.io/JDE5D" height="24" align="left" alt="swift">
+    <b>Solution</b>
+</summary>
+
+<br/>
 
 ```swift
 if let N = Int(readLine(strippingNewline: true)!), Set(0...10).contains(N) { print(N * 2) }
 if let S = readLine(strippingNewline: true), Set(1...15).contains(S.count) { print(S) }
 ```
+<p>
+<b>RESULT:</b> Solution Accepted<br/>
+<b>Score:</b> 100<br/>
+<b>Time (sec):</b> 0.009627<br/>
+<b>Memory (KiB):</b> 2
+</p> 
 
-<h3>Description</h3>
+</details>
+
+<h2>Description</h2>
 
 <p>
 Read different types of data from standard input, process them as shown in output format and print the answer to standard output.

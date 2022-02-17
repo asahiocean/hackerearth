@@ -6,12 +6,3 @@ import Foundation
 if let N = Int(readLine(strippingNewline: true)!), Set(0...10).contains(N) { print(N * 2) }
 
 if let S = readLine(strippingNewline: true), Set(1...15).contains(S.count) { print(S) }
-
-// MARK: - RESULT -
-
-/*
- RESULT: Accepted
- Score: 100
- Time (sec): 0.009627
- Memory (KiB): 2
-*/

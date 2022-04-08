@@ -15,10 +15,10 @@
 <br/>
 
 ```swift
-if let valN = Int(readLine(strippingNewline: true)!), Set(0...10).contains(valN) {
+if let valN = Int(readLine(strippingNewline: true)!), (0...10).contains(valN) {
     print(valN * 2)
 }
-if let valS = readLine(strippingNewline: true), Set(1...15).contains(valS.count) {
+if let valS = readLine(strippingNewline: true), (1...15).contains(valS.count) {
     print(valS)
 }
 ```

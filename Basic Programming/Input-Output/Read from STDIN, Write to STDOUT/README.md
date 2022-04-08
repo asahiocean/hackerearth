@@ -15,9 +15,14 @@
 <br/>
 
 ```swift
-if let N = Int(readLine(strippingNewline: true)!), Set(0...10).contains(N) { print(N * 2) }
-if let S = readLine(strippingNewline: true), Set(1...15).contains(S.count) { print(S) }
+if let valN = Int(readLine(strippingNewline: true)!), Set(0...10).contains(valN) {
+    print(valN * 2)
+}
+if let valS = readLine(strippingNewline: true), Set(1...15).contains(valS.count) {
+    print(valS)
+}
 ```
+
 <p>
 <b>RESULT:</b> Solution Accepted<br/>
 <b>Score:</b> 100<br/>
